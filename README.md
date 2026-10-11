@@ -136,3 +136,13 @@ git push -u origin feature/learntrack-core-java
 ```
 
 Do not submit a fabricated PR URL: create the repository and PR in your GitHub account first.
+
+
+## Submission
+
+This project was developed using Core Java to demonstrate object-oriented programming, collections, exception handling, and menu-driven console applications.
+
+### Technologies
+- Java 21
+- Eclipse IDE
+- Git and GitHub
